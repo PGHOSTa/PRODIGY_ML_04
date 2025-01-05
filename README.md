@@ -104,10 +104,4 @@ The model achieves high accuracy on the test set, demonstrating effective learni
 
 ---
 
-## License
 
-This project is for educational purposes. Dataset sourced from **Sign Language MNIST**.
-
----
-
-For questions or improvements, feel free to contribute!
