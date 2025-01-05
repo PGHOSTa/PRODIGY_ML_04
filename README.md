@@ -94,14 +94,4 @@ Run the CNN model for 10 epochs using a batch size of 64. The training set is sp
 
 The model achieves high accuracy on the test set, demonstrating effective learning of hand sign gestures.
 
----
-
-## Future Work
-
-- Add data augmentation to improve model robustness.
-- Experiment with deeper architectures like ResNet or MobileNet.
-- Extend the dataset to include gestures for `J` and `Z`.
-
----
-
 
